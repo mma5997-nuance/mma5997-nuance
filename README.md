@@ -1,11 +1,11 @@
 > Life's a nested egg, and am trying to hatch out, one by one 🥚
 
 # Hey 👋 this is Mandar, a DEV enthusiast.
-- Working as a Software Developer at Tibco, since Jun 2019.
-- Graduated as BTech Computer Engineer from VIT Pune in May 2019.
-- I have been interned at Symantec in Jul-Dec 2018.
-- Enjoy watching anime :)
-- CSGO fan
+- 💼 Working as a Software Developer at Tibco, since Jun 2019.
+- 👨‍🎓 Graduated as BTech Computer Engineer from VIT Pune in May 2019.
+- 💻 I have been interned at Symantec in Jul-Dec 2018.
+- 🖤 Enjoy watching anime :)
+- 🎮 CSGO fan
 
 ![Jiraiya](/images/jiraiya.jpg)
 
