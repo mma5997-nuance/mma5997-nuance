@@ -1,4 +1,4 @@
-> Life's a nested egg, and am trying to hatch out, one by one 🥚
+> Life's a nested egg, and trying to hatch out, one by one 🥚
 
 # Hey 👋 this is Mandar, a DEV enthusiast.
 - 💼 Working as a Software Developer at Tibco, since Jun 2019.
