@@ -6,7 +6,7 @@
 - 💻 I have been interned at Symantec in Jul-Dec 2018.
 - 🖤 Enjoy watching anime :)
 - 🎮 CSGO fan
-- 🎼 Love listening to music and ![here's](<iframe src="https://open.spotify.com/embed/playlist/1bjSRIhthqrDvuW2Edx59k?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>) my spotify playlist.
+- 🎼 Love listening to music and ![here's](https://open.spotify.com/embed/playlist/1bjSRIhthqrDvuW2Edx59k?utm_source=generator) my spotify playlist.
 
 ![Jiraiya](/images/jiraiya.jpg)
 
