@@ -1,7 +1,7 @@
 > Life's a nested egg, trying to hatch out, one by one 🥚
 
 # Hey 👋 this is Mandar, a DEV enthusiast!
-- :star2:	Working as Software Engineer at Nuance Communications since Oct 2022 (my nuance account --> [mma5997-nuance](https://github.com/mma5997-nuance)) 
+- :star2:	Working as Software Engineer at Nuance Communications since Oct 2022 
 - 💼 Prior to that have worked as a Software Developer at TIBCO Software : Jun 2019 - Sept 2022.
 - 👨‍🎓 Graduated as BTech Computer Engineer from VIT Pune in May 2019.
 - 💻 I have been interned at Symantec in Jul-Dec 2018.
