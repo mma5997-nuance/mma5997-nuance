@@ -5,6 +5,7 @@
 - 💼 Prior to that have worked as a Software Developer at TIBCO Software : Jun 2019 - Sept 2022.
 - 👨‍🎓 Graduated as BTech Computer Engineer from VIT Pune in May 2019.
 - 💻 I have been interned at Symantec in Jul-Dec 2018.
+- 😸 I am fond of cats
 - 🖤 Enjoy watching anime :)
 - 🎮 CSGO fan
 - 🎼 Love listening to music and [here's](https://open.spotify.com/playlist/1bjSRIhthqrDvuW2Edx59k?si=d61cecc9e65a4b95) my spotify playlist.
